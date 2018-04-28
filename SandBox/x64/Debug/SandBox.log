@@ -1,8 +1,3 @@
-﻿  stdafx.cpp
-  PacmanDemoScene.cpp
-  Main.cpp
-  Game.cpp
-  Generating Code...
-     Creating library D:\Programming 4\source\Minigin\x64\Debug\SandBox.lib and object D:\Programming 4\source\Minigin\x64\Debug\SandBox.exp
-  SandBox.vcxproj -> D:\Programming 4\source\Minigin\x64\Debug\SandBox.exe
-  SandBox.vcxproj -> D:\Programming 4\source\Minigin\x64\Debug\SandBox.pdb (Partial PDB)
+﻿  Game.cpp
+  SandBox.vcxproj -> D:\Programming 4\Minigin Backup\Minigin2\x64\Debug\SandBox.exe
+  SandBox.vcxproj -> D:\Programming 4\Minigin Backup\Minigin2\x64\Debug\SandBox.pdb (Partial PDB)

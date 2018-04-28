@@ -17,8 +17,10 @@ namespace dae
 		void AddScene(Scene* scene);
 		Scene* GetScene(string name);
 		void CleanUp();
+		void NextScene();
 	private:
-		std::vector<Scene*> mScenes;
+		std::vector<Scene*> m_pScenes;
+		int m_ActiveSceneID = 0;
 	};
 
 }

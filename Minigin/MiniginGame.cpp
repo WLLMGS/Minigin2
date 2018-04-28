@@ -65,6 +65,7 @@ void MiniginGame::Run()
 		while (lag >= m_MsPerFrame)
 		{
 			sceneManager.Update(float(m_MsPerFrame / 1000.0f));
+			Update(float(m_MsPerFrame / 1000.0f));
 			lag -= m_MsPerFrame;
 		}
 		renderer.Render();
@@ -85,4 +86,13 @@ void MiniginGame::Cleanup()
 void MiniginGame::LoadGameData()
 {
 	//load scenes here
+}
+
+void MiniginGame::Update(float elapsedSec)
+{
+	(elapsedSec);
+}
+
+void MiniginGame::Render()
+{
 }
