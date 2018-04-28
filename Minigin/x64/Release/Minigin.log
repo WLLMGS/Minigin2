@@ -1,0 +1,37 @@
+﻿  MiniginPCH.cpp
+  BaseComponent.cpp
+  ColliderComponent.cpp
+  EngineTestScene.cpp
+  Font.cpp
+  FpsCounterPrefab.cpp
+  GameActor.cpp
+  GameObject.cpp
+  InputManager.cpp
+  LevelLoader.cpp
+  Log.cpp
+  Logger.cpp
+  Minigin.cpp
+  MiniginGame.cpp
+  PacmanPrefab.cpp
+  Renderer.cpp
+  ResourceManager.cpp
+  Scene.cpp
+  SceneManager.cpp
+  SpriteComponent.cpp
+  TextComponent.cpp
+  Compiling...
+  TransformComponent.cpp
+  WallPrefab.cpp
+  Minigin.vcxproj -> D:\Game Projects\Moonlight Engine\Minigin\x64\Release\Minigin.lib
+  D:\Game Projects\Moonlight Engine\Minigin\3rdParty\SDL2\lib\x64\SDL2.dll
+  1 File(s) copied
+  D:\Game Projects\Moonlight Engine\Minigin\3rdParty\SDL2_image\lib\x64\libjpeg-9.dll
+  D:\Game Projects\Moonlight Engine\Minigin\3rdParty\SDL2_image\lib\x64\libpng16-16.dll
+  D:\Game Projects\Moonlight Engine\Minigin\3rdParty\SDL2_image\lib\x64\libtiff-5.dll
+  D:\Game Projects\Moonlight Engine\Minigin\3rdParty\SDL2_image\lib\x64\libwebp-7.dll
+  D:\Game Projects\Moonlight Engine\Minigin\3rdParty\SDL2_image\lib\x64\SDL2_image.dll
+  D:\Game Projects\Moonlight Engine\Minigin\3rdParty\SDL2_image\lib\x64\zlib1.dll
+  6 File(s) copied
+  D:\Game Projects\Moonlight Engine\Minigin\3rdParty\SDL2_ttf\lib\x64\libfreetype-6.dll
+  D:\Game Projects\Moonlight Engine\Minigin\3rdParty\SDL2_ttf\lib\x64\SDL2_ttf.dll
+  2 File(s) copied

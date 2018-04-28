@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Game.cpp
+  Main.cpp
+  PacmanDemoScene.cpp
+     Creating library D:\Game Projects\Moonlight Engine\Minigin\x64\Release\SandBox.lib and object D:\Game Projects\Moonlight Engine\Minigin\x64\Release\SandBox.exp
+  Generating code
+  All 976 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SandBox.vcxproj -> D:\Game Projects\Moonlight Engine\Minigin\x64\Release\SandBox.exe
+  SandBox.vcxproj -> D:\Game Projects\Moonlight Engine\Minigin\x64\Release\SandBox.pdb (Full PDB)
